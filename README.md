@@ -42,7 +42,7 @@ I am an **Offensive Security Professional** with a strong focus on **penetration
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-- **Languages:** Python, Bash, PHP, HTML, C, Ruby, Go
+- **Languages:** Python, Bash, PHP, HTML, C, LaTeX, Ruby, Go
 - **Scripting:** Automation for pentesting & exploit development
 
 ### 🌐 **Web Exploitation**
