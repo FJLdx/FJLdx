@@ -83,7 +83,7 @@ I am an **Offensive Security Professional** with a strong focus on **penetration
 ## 📬 Contact Me
 📧 **Email:** [fjlazzarini@icloud.com](mailto:fjlazzarini@icloud.com)  
 🔗 **Hack The Box:** [Profile](https://app.hackthebox.com/profile/2181698)  
-🔗 **LinkedIn (Coming Soon)**
+🔗 **LinkedIn:** [Profile](www.linkedin.com/in/fjldx)
 
 ---
 
