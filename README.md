@@ -1,91 +1,77 @@
-# 👋 Welcome to My GitHub Profile!
-
-![Banner](https://github.com/FJLdx/FJLdx/raw/main/banner.png)
-
-## 🚀 Offensive Security Professional  
-🔎 *"Driven by an insatiable curiosity for cybersecurity. Constantly researching, testing, and pushing boundaries in offensive security."*
+# 🧾 Franco Marino Lazzarini  
+**Offensive Security Professional**  
+📧 fjlazzarini@icloud.com | 🇲🇽 CDMX  
+🔗 [GitHub: FJLdx](https://github.com/FJLdx) | [LinkedIn: fjldx](https://www.linkedin.com/in/fjldx) | [HTB Profile](https://app.hackthebox.com/profile/2181698)
 
 ---
 
-## 🛡️ About Me
-I am an **Offensive Security Professional** with a strong focus on **penetration testing, Red Team operations, and cybersecurity research**. My background in **computer engineering** combined with hands-on experience in ethical hacking allows me to assess, exploit, and secure systems effectively.
+## 🎯 Perfil Profesional
 
-💡 Passionate about **network security, web exploitation, and adversary simulation**. Always learning, always hacking.  
-🎯 Preparing for **OSCP certification** to deepen my expertise in offensive security.  
-📚 Studied **Computer Engineering** at the **University of Alicante** and **Cybersecurity at Hack4U & Hack The Box**.  
+Especialista en Seguridad Ofensiva con formación en Ingeniería Informática y experiencia práctica en **pentesting, Red Team, explotación de vulnerabilidades web y scripting ofensivo**. Me apasiona romper y reconstruir sistemas para entender cómo protegerlos mejor.
 
----
-
-## 🎓 Certifications & Training
-✅ **Introduction to Linux Security** – Hack4U (*15 hours*)  
-✅ **Kali & Parrot Environment Customization** – Hack4U (*3 hours*)  
-✅ **Ethical Hacking Course** – Hack4U (*53 hours*)  
-✅ **Offensive Python for Pentesting** – Hack4U (*35 hours*)  
-🔜 **OSCP (In Progress)**
+Con sólidos conocimientos en **OWASP Top 10**, explotación de aplicaciones, automatización de ataques, **OSINT avanzado**, y desarrollo de herramientas propias, me desempeño con fluidez en entornos Linux y Windows. Comprometido con la mejora continua, la ética profesional y la investigación constante.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎓 Certificaciones & Formación
 
-### 🔍 **Penetration Testing**
-![Nmap](https://img.shields.io/badge/Tool-Nmap-blue?style=flat&logo=nmap)
-![Burp Suite](https://img.shields.io/badge/Tool-BurpSuite-orange?style=flat&logo=burp-suite)
-![Metasploit](https://img.shields.io/badge/Tool-Metasploit-red?style=flat&logo=metasploit)
-![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blue?style=flat&logo=wireshark)
-
-- Network & Web Pentesting
-- OSINT & Red Team Operations
-- Exploit Development & Privilege Escalation
-
-### 💻 **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-- **Languages:** Python, Bash, PHP, HTML, C, LaTeX, Ruby, Go
-- **Scripting:** Automation for pentesting & exploit development
-
-### 🌐 **Web Exploitation**
-![SQLi](https://img.shields.io/badge/Exploitation-SQLi-critical?style=flat&color=red)
-![XSS](https://img.shields.io/badge/Exploitation-XSS-high?style=flat&color=orange)
-![RCE](https://img.shields.io/badge/Exploitation-RCE-high?style=flat&color=orange)
-
-- **Attack Vectors:** SQL Injection, XSS, LFI, RCE, SSRF, CSRF
-- **OWASP Top 10** Deep Knowledge
-- **Bypassing WAFs & Security Filters**
-
-### 🕵️ **Red Team & OSINT**
-![OSINT](https://img.shields.io/badge/Tool-OSINT%20Framework-black?style=flat&logo=cybersecurity)
-![Maltego](https://img.shields.io/badge/Tool-Maltego-darkblue?style=flat&logo=maltego)
-
-- Active Directory Exploitation with BloodHound
-- Google Dorking & Advanced Reconnaissance
-- Social Engineering & Data Gathering
+- ✅ **OSCP – Offensive Security Certified Professional** *(02/11/2023)*
+- ✅ **eMAPT – eLearnSecurity Mobile Application Penetration Tester** *(10/10/2023)*
+- 🧪 **Introducción a la Seguridad en Linux** – Hack4U (15h)
+- 🧪 **Personalización de entornos Kali & Parrot** – Hack4U (3h)
+- 🧪 **Curso de Hacking Ético** – Hack4U (53h)
+- 🧪 **Python ofensivo para pentesting** – Hack4U (35h)
+- 🎓 **Ingeniería Informática** – Universidad de Alicante (2003–2007)
 
 ---
 
-## 🔥 Featured Projects
-📌 **[ForwardShell](https://github.com/FJLdx/ForwardShell)** – A proof-of-concept reverse shell over HTTP for ethical hacking.  
-📌 **[C2](https://github.com/FJLdx/C2)** – Command & Control and undetectable backdoor for research purposes.  
-📌 **[PasswordExtractor](https://github.com/FJLdx/PasswordExtractor)** – Educational malware extracting stored Firefox passwords.  
-📌 **[ICMP Scanner](https://github.com/FJLdx/icmpscanner)** – Bash script to detect active hosts via ICMP.  
-📌 **[Port Scanner](https://github.com/FJLdx/PortScanner)** – Multi-threaded Python scanner for open ports.  
-📌 **[Subneting Tool](https://github.com/FJLdx/subneting-tool)** – Bash tool to calculate subnet info from IP/CIDR.  
+## 🛠️ Habilidades Técnicas
+
+### 🔍 Pentesting & Seguridad Web
+- Herramientas: Nmap, Burp Suite, Metasploit, sqlmap, Wireshark, ZAP, Hydra
+- Técnicas: Escaneo de red, explotación web, escalamiento de privilegios, evasión de WAF
+- Conocimientos: OWASP Top 10, CVE/CVSS, pruebas de caja blanca/negra/gris
+
+### 🖥️ Sistemas Operativos
+- Experto en entornos Linux ofensivos (Parrot, Kali)
+- Gestión de usuarios, permisos, automatización y hardening
+- Familiaridad con Active Directory y Windows Server
+
+### 💻 Programación & Automatización
+- **Lenguajes**: Python, Bash, PHP, HTML, C, Go, LaTeX
+- Scripting de ataques automatizados y herramientas propias
+
+### 🌐 Web & API Exploitation
+- Vectores: SQLi, XSS, LFI, RCE, CSRF, SSRF
+- Técnicas de evasión y manipulación de input
+- API attacks y fuzzing avanzado
+
+### 🕵️ Red Team & OSINT
+- Active Directory exploitation (BloodHound, impacket)
+- Google Dorking, scraping, recolección pasiva y social engineering
+- Herramientas: Maltego, theHarvester, Recon-ng, Shodan, SpiderFoot
 
 ---
 
-## 📊 GitHub Stats
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FJLdx&show_icons=true&theme=dark)
+## 🚀 Proyectos Destacados
+
+- 🔧 **[ForwardShell](https://github.com/FJLdx/ForwardShell)** – Reverse shell sobre HTTP
+- 🎯 **[C2](https://github.com/FJLdx/C2)** – Backdoor no detectado para pruebas controladas
+- 🔑 **[PasswordExtractor](https://github.com/FJLdx/PasswordExtractor)** – Malware educativo para Firefox
+- 📡 **[ICMP Scanner](https://github.com/FJLdx/icmpscanner)** – Scanner de red con Bash
+- 🔍 **[Port Scanner](https://github.com/FJLdx/PortScanner)** – Scanner multihilo en Python
+- 📐 **[Subneting Tool](https://github.com/FJLdx/subneting-tool)** – Cálculo de subredes en Bash
+
+---
+
+## 📊 Estadísticas GitHub
+
+![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FJLdx&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FJLdx&layout=compact&theme=dark)
 
 ---
 
-## 📬 Contact Me
-📧 **Email:** [fjlazzarini@icloud.com](mailto:fjlazzarini@icloud.com)  
-🔗 **Hack The Box:** [Profile](https://app.hackthebox.com/profile/2181698)  
-🔗 **LinkedIn:** [Profile](https://www.linkedin.com/in/fjldx)
+## 📝 Disclaimer
 
----
-
-*Disclaimer: All scripts and projects are for educational and research purposes only. Unauthorized use of these tools in real environments is prohibited.*
-
+Todos los scripts y herramientas incluidos en mis repositorios están destinados únicamente a **fines educativos y de investigación**. No deben utilizarse en entornos no autorizados.  
+**Pentesting ético, siempre.**
