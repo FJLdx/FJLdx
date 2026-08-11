@@ -1,6 +1,13 @@
-# Franco Javier Lazzarini Marino
+<p align="center">
+  <img src="./profile-banner.png" alt="Franco Lazzarini — Technology Director | Cybersecurity | Agentic AI Platforms">
+</p>
 
-## Technology Director | Cybersecurity | Agentic AI Platforms
+<p>
+  <img src="https://img.shields.io/badge/OSCP-0B2036?style=flat-square" alt="OSCP">
+  <img src="https://img.shields.io/badge/eMAPT-0B2036?style=flat-square" alt="eMAPT">
+  <img src="https://img.shields.io/badge/Burp%20Suite%20Certified%20Practitioner-0B2036?style=flat-square" alt="Burp Suite Certified Practitioner">
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001%20Lead%20Auditor-0B2036?style=flat-square" alt="ISO/IEC 27001 Lead Auditor">
+</p>
 
 Technology leader with more than 20 years of international experience across Spain, Andorra, Ireland, and Mexico. I currently serve as Technology Director at JMA Integra, leading cybersecurity and AI initiatives from strategy and architecture through delivery, governance, and executive communication.
 
@@ -34,4 +41,6 @@ Spanish — Native · English — C1 · Catalan — B2 · Norwegian — B1
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/fjldx)
+Based in **Tijuana, Mexico**.
+
+[www.francolazzarini.com](https://www.francolazzarini.com) · [info@francolazzarini.com](mailto:info@francolazzarini.com) · [LinkedIn](https://www.linkedin.com/in/fjldx)
