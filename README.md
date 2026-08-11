@@ -6,7 +6,7 @@
   <a href="https://www.francolazzarini.com"><img src="https://img.shields.io/badge/WEBSITE-francolazzarini.com-48C7FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=06101C" alt="Website"></a>
   <a href="mailto:info@francolazzarini.com"><img src="https://img.shields.io/badge/EMAIL-info%40francolazzarini.com-0B2036?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=48C7FF&amp;labelColor=06101C" alt="Email"></a>
   <a href="https://www.linkedin.com/in/fjldx"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=06101C" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/BASED%20IN-Tijuana%2C%20Mexico-0B2036?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=48C7FF&amp;labelColor=06101C" alt="Based in Tijuana, Mexico">
+  <img src="https://img.shields.io/badge/BASED%20IN-Tijuana%20%7C%20Madrid-0B2036?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=48C7FF&amp;labelColor=06101C" alt="Based in Tijuana and Madrid">
 </p>
 
 <h2 align="center">Technology leadership at the intersection of cybersecurity and agentic AI</h2>
@@ -68,7 +68,7 @@ I currently serve as **Technology Director at JMA Integra**, leading cybersecuri
 ## Credentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OSCP-CERTIFIED-48C7FF?style=for-the-badge&amp;labelColor=06101C" alt="Offensive Security Certified Professional">
+  <img src="https://img.shields.io/badge/OSCP-CERTIFIED-C1121F?style=for-the-badge&amp;labelColor=06101C" alt="Offensive Security Certified Professional">
   <img src="https://img.shields.io/badge/eMAPT-CERTIFIED-48C7FF?style=for-the-badge&amp;labelColor=06101C" alt="eLearnSecurity Mobile Application Penetration Tester">
   <img src="https://img.shields.io/badge/BURP%20SUITE-CERTIFIED%20PRACTITIONER-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white&amp;labelColor=06101C" alt="Burp Suite Certified Practitioner">
   <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-LEAD%20AUDITOR-48C7FF?style=for-the-badge&amp;labelColor=06101C" alt="ISO/IEC 27001 Lead Auditor">
@@ -77,7 +77,19 @@ I currently serve as **Technology Director at JMA Integra**, leading cybersecuri
 ## Technology &amp; governance landscape
 
 <p align="center">
+  <sub>PROGRAMMING &amp; AI</sub><br>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&amp;logo=perl&amp;logoColor=white" alt="Perl">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Assembly-2C2C2C?style=flat-square" alt="Assembly">
+</p>
+
+<p align="center">
+  <sub>PLATFORMS &amp; CLOUD</sub><br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square" alt="Microsoft Azure">
@@ -86,6 +98,7 @@ I currently serve as **Technology Director at JMA Integra**, leading cybersecuri
 </p>
 
 <p align="center">
+  <sub>ARCHITECTURE &amp; GOVERNANCE</sub><br>
   <img src="https://img.shields.io/badge/Agentic%20AI-0B2036?style=flat-square" alt="Agentic AI">
   <img src="https://img.shields.io/badge/MCP-0B2036?style=flat-square" alt="Model Context Protocol">
   <img src="https://img.shields.io/badge/RAG-0B2036?style=flat-square" alt="Retrieval-Augmented Generation">
@@ -109,6 +122,7 @@ I currently serve as **Technology Director at JMA Integra**, leading cybersecuri
 <p align="center">
   <strong>Franco Lazzarini</strong><br>
   Technology Director · Cybersecurity · Agentic AI<br>
+  Tijuana · Madrid<br>
   <a href="https://www.francolazzarini.com">Website</a> ·
   <a href="mailto:info@francolazzarini.com">Email</a> ·
   <a href="https://www.linkedin.com/in/fjldx">LinkedIn</a>
