@@ -1,77 +1,37 @@
-# 🧾 Franco Marino Lazzarini  
-**Offensive Security Professional**  
-📧 fjlazzarini@icloud.com | 🇲🇽 CDMX  
-🔗 [GitHub: FJLdx](https://github.com/FJLdx) | [LinkedIn: fjldx](https://www.linkedin.com/in/fjldx) | [HTB Profile](https://app.hackthebox.com/profile/2181698)
+# Franco Javier Lazzarini Marino
 
----
+## Technology Director | Cybersecurity | Agentic AI Platforms
 
-## 🎯 Perfil Profesional
+Technology leader with more than 20 years of international experience across Spain, Andorra, Ireland, and Mexico. I currently serve as Technology Director at JMA Integra, leading cybersecurity and AI initiatives from strategy and architecture through delivery, governance, and executive communication.
 
-Especialista en Seguridad Ofensiva con formación en Ingeniería Informática y experiencia práctica en **pentesting, Red Team, explotación de vulnerabilidades web y scripting ofensivo**. Me apasiona romper y reconstruir sistemas para entender cómo protegerlos mejor.
+My background combines offensive security, systems and application assurance, infrastructure protection, risk governance, and enterprise AI. I focus on translating complex operational requirements into secure, traceable, and measurable technology programs.
 
-Con sólidos conocimientos en **OWASP Top 10**, explotación de aplicaciones, automatización de ataques, **OSINT avanzado**, y desarrollo de herramientas propias, me desempeño con fluidez en entornos Linux y Windows. Comprometido con la mejora continua, la ética profesional y la investigación constante.
+### Areas of focus
 
----
+- **Technology and cybersecurity leadership:** strategy, service design, delivery governance, team development, managed security, and executive decision support.
+- **Offensive security and technical assurance:** Red Team operations, web and mobile application assessments, code review, infrastructure and Active Directory security, and remediation planning.
+- **Agentic AI and enterprise automation:** tool-using agents, multi-agent orchestration, persistent memory, RAG and knowledge graphs, MCP and Microsoft 365 integration, scheduled operations, and human oversight.
+- **Governance and secure architecture:** ISO/IEC 27001, ISO 31000, NIST, CIS, COBIT, least privilege, traceability, execution isolation, and data-residency controls.
 
-## 🎓 Certificaciones & Formación
+### Professional trajectory
 
-- ✅ **OSCP – Offensive Security Certified Professional** *(02/11/2023)*
-- ✅ **eMAPT – eLearnSecurity Mobile Application Penetration Tester** *(10/10/2023)*
-- 🧪 **Introducción a la Seguridad en Linux** – Hack4U (15h)
-- 🧪 **Personalización de entornos Kali & Parrot** – Hack4U (3h)
-- 🧪 **Curso de Hacking Ético** – Hack4U (53h)
-- 🧪 **Python ofensivo para pentesting** – Hack4U (35h)
-- 🎓 **Ingeniería Informática** – Universidad de Alicante (2003–2007)
+- **Technology Director — JMA Integra** | 2025–Present
+- **Senior Offensive Cybersecurity Consultant — CommSec, Dublin** | 2024–2025
+- **Principal Cybersecurity Specialist — Grupo Pyrenees, Andorra** | 2017–2023
+- **Offensive Security Specialist — SIA Group / Indra, Madrid** | 2010–2016
+- **Networks and Infrastructure — Verne Technology, Spain** | 2003–2009
 
----
+### Credentials
 
-## 🛠️ Habilidades Técnicas
+- Offensive Security Certified Professional (OSCP)
+- eLearnSecurity Mobile Application Penetration Tester (eMAPT)
+- Burp Suite Certified Practitioner
+- ISO/IEC 27001 Lead Auditor
 
-### 🔍 Pentesting & Seguridad Web
-- Herramientas: Nmap, Burp Suite, Metasploit, sqlmap, Wireshark, ZAP, Hydra
-- Técnicas: Escaneo de red, explotación web, escalamiento de privilegios, evasión de WAF
-- Conocimientos: OWASP Top 10, CVE/CVSS, pruebas de caja blanca/negra/gris
+### Languages
 
-### 🖥️ Sistemas Operativos
-- Experto en entornos Linux ofensivos (Parrot, Kali)
-- Gestión de usuarios, permisos, automatización y hardening
-- Familiaridad con Active Directory y Windows Server
+Spanish — Native · English — C1 · Catalan — B2 · Norwegian — B1
 
-### 💻 Programación & Automatización
-- **Lenguajes**: Python, Bash, PHP, HTML, C, Go, LaTeX
-- Scripting de ataques automatizados y herramientas propias
+### Contact
 
-### 🌐 Web & API Exploitation
-- Vectores: SQLi, XSS, LFI, RCE, CSRF, SSRF
-- Técnicas de evasión y manipulación de input
-- API attacks y fuzzing avanzado
-
-### 🕵️ Red Team & OSINT
-- Active Directory exploitation (BloodHound, impacket)
-- Google Dorking, scraping, recolección pasiva y social engineering
-- Herramientas: Maltego, theHarvester, Recon-ng, Shodan, SpiderFoot
-
----
-
-## 🚀 Proyectos Destacados
-
-- 🔧 **[ForwardShell](https://github.com/FJLdx/ForwardShell)** – Reverse shell sobre HTTP
-- 🎯 **[C2](https://github.com/FJLdx/C2)** – Backdoor no detectado para pruebas controladas
-- 🔑 **[PasswordExtractor](https://github.com/FJLdx/PasswordExtractor)** – Malware educativo para Firefox
-- 📡 **[ICMP Scanner](https://github.com/FJLdx/icmpscanner)** – Scanner de red con Bash
-- 🔍 **[Port Scanner](https://github.com/FJLdx/PortScanner)** – Scanner multihilo en Python
-- 📐 **[Subneting Tool](https://github.com/FJLdx/subneting-tool)** – Cálculo de subredes en Bash
-
----
-
-## 📊 Estadísticas GitHub
-
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FJLdx&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FJLdx&layout=compact&theme=dark)
-
----
-
-## 📝 Disclaimer
-
-Todos los scripts y herramientas incluidos en mis repositorios están destinados únicamente a **fines educativos y de investigación**. No deben utilizarse en entornos no autorizados.  
-**Pentesting ético, siempre.**
+[LinkedIn](https://www.linkedin.com/in/fjldx)
