@@ -77,15 +77,23 @@ I currently serve as **Technology Director at JMA Integra**, leading cybersecuri
 ## Technology &amp; governance landscape
 
 <p align="center">
-  <sub>PROGRAMMING &amp; AI</sub><br>
+  <sub>AI &amp; AGENTIC SYSTEMS</sub><br>
   <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic">
+  <img src="https://img.shields.io/badge/Agentic%20AI-0B2036?style=flat-square" alt="Agentic AI">
+  <img src="https://img.shields.io/badge/MCP-0B2036?style=flat-square" alt="Model Context Protocol">
+  <img src="https://img.shields.io/badge/RAG-0B2036?style=flat-square" alt="Retrieval-Augmented Generation">
+  <img src="https://img.shields.io/badge/Knowledge%20Graphs-0B2036?style=flat-square" alt="Knowledge Graphs">
+</p>
+
+<p align="center">
+  <sub>PROGRAMMING LANGUAGES</sub><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&amp;logo=perl&amp;logoColor=white" alt="Perl">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Assembly-2C2C2C?style=flat-square" alt="Assembly">
+  <img src="https://img.shields.io/badge/Assembly-2C2C2C?style=flat-square&amp;logo=assemblyscript&amp;logoColor=white" alt="Assembly">
 </p>
 
 <p align="center">
@@ -98,11 +106,7 @@ I currently serve as **Technology Director at JMA Integra**, leading cybersecuri
 </p>
 
 <p align="center">
-  <sub>ARCHITECTURE &amp; GOVERNANCE</sub><br>
-  <img src="https://img.shields.io/badge/Agentic%20AI-0B2036?style=flat-square" alt="Agentic AI">
-  <img src="https://img.shields.io/badge/MCP-0B2036?style=flat-square" alt="Model Context Protocol">
-  <img src="https://img.shields.io/badge/RAG-0B2036?style=flat-square" alt="Retrieval-Augmented Generation">
-  <img src="https://img.shields.io/badge/Knowledge%20Graphs-0B2036?style=flat-square" alt="Knowledge Graphs">
+  <sub>SECURITY &amp; GOVERNANCE</sub><br>
   <img src="https://img.shields.io/badge/NIST-0B2036?style=flat-square" alt="NIST">
   <img src="https://img.shields.io/badge/CIS-0B2036?style=flat-square" alt="CIS">
   <img src="https://img.shields.io/badge/COBIT-0B2036?style=flat-square" alt="COBIT">
